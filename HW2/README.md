@@ -15,5 +15,5 @@ Datasets have to be like that. You can seperate value with [, ?.@] or more than 
 
 FP_Growth.java has main function to test implementation. To test this program you have to 
 assingn value of MIN_SUPPORT and FILE_NAME. MIN_SUPPORT is required to find at least support 
-item count and FILE_NAME is required for dataset. You can use IntelliJ to run these programs.
+item count and FILE_NAME is required for dataset. You can use IntelliJ to run these programs.<br />
 <br /><a href = "https://github.com/alihaydarkurban/CSE454-Data-Mining/blob/master/HW2/Outputs.pdf"> Result of the implementation was included.</a>
