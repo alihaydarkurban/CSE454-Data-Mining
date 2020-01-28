@@ -21,4 +21,4 @@ than lower bound of the road. And also some trucks have to be together with sequ
 Conceptual Anomalies occures if a truck spends too few fuel or too much fuel to travel road in 
 rush hours. I suppose in the rush hours, trucks spend 1.5 times liter more fuel.<br />
 
-<br /><a href = "https://github.com/alihaydarkurban/CSE454-Data-Mining/blob/master/HW3/Outputs.pdf"> Result of the implementation was included.</a>
+<a href = "https://github.com/alihaydarkurban/CSE454-Data-Mining/blob/master/HW3/Outputs.pdf"> Result of the implementation was included.</a>
