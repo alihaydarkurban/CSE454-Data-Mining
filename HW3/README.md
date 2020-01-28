@@ -16,6 +16,6 @@ Point Anomalies occures if a truck spends too much or too few fuel to travel roa
 
 Group Anomalies occures if some trucks travel road more than upper bound, or travel road less 
 than lower bound of the road. And also some trucks have to be together with sequence.
-<br />
+<br /><br />
 Conceptual Anomalies occures if a truck spends too few fuel or too much fuel to travel road in 
 rush hours. I suppose in the rush hours, trucks spend 1.5 times liter more fuel.<br />
