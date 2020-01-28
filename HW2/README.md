@@ -1,7 +1,7 @@
 It is a implementation of FP-Growth. Java Programming Language was used to implement it. <br />
 There are two example dataset inside of this folder. These are Dataset1.txt and Dataset2.txt. <br />
 
-<a href = "https://github.com/alihaydarkurban/CSE454-Data-Mining/blob/master/HW2/151044058_CSE454_HW2/Dataset1.txt" "target=\"_blank\">It is an example dataset.</a> <br /><br />
+<a target="_blank" href = "https://github.com/alihaydarkurban/CSE454-Data-Mining/blob/master/HW2/151044058_CSE454_HW2/Dataset1.txt">It is an example dataset.</a> <br /><br />
 <b>
 I1,I2,I3 <br />
 I2,I3,I4 <br />
