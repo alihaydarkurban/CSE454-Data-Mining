@@ -1,5 +1,5 @@
 It is a implementation of FP-Growth. Java Programming Language was used to implement it. <br />
-There are two example dataset inside of this folder. These are Dataset1.txt and Dataset2.txt. <br /> <br />
+There are two example dataset inside of this folder. These are Dataset1.txt and Dataset2.txt. <br />
 
 It is an example dataset. <br />
 I1,I2,I3 <br />
