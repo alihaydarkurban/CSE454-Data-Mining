@@ -7,7 +7,7 @@ I2,I3,I4 <br />
 I4,I5 <br />
 I1,I2,I4 <br />
 I1,I2,I3,I5 <br />
-I1,I2,I3,I4  <br /> <br />
+I1,I2,I3,I4  <br />
 
 These means that I1,I2,I3 are together, I2,I3,I4 are together... <br />
 Datasets have to be like that. You can seperate value with [, ?.@] or more than one with them. <br />
